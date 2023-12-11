@@ -24,6 +24,7 @@ import {
   WindmillSelectCharactersModule,
   WindmillSelectModule,
 } from '@windmill/ng-windmill';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 @NgModule({
   declarations: [AppComponent],
@@ -36,6 +37,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
       // or after 30 seconds (whichever comes first).
       registrationStrategy: 'registerWhenStable:30000',
     }),
+    BrowserAnimationsModule,
     FormsModule,
     ReactiveFormsModule,
     WindmillAutocompleteModule,

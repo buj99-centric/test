@@ -134,7 +134,7 @@ export class AppComponent implements OnInit {
   slideToggleNgModel = false;
   toggleFormGroup!: FormGroup;
 
-  sliderModel?: number;
+  sliderModel?: number = 0;
   isVertical = false;
   ariaLabelSlider = 'Percent';
   ariaDescriptionSlider = 'You can use arrows to increase/decrease value';
