@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702302798364,
+  "timestamp": 1702303171005,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "./manifest.webmanifest",
         "./polyfills.6920a2530dfc5c7d.js",
         "./runtime.d4747fd77c7fd010.js",
-        "./styles.ef46db3751d8e999.css"
+        "./styles.9ec8bbe651ededf2.css"
       ],
       "patterns": []
     },
@@ -36,7 +36,15 @@
         "./assets/icons/icon-384x384.png",
         "./assets/icons/icon-512x512.png",
         "./assets/icons/icon-72x72.png",
-        "./assets/icons/icon-96x96.png"
+        "./assets/icons/icon-96x96.png",
+        "./opensans-bold.2006071b1b31da7a.woff2",
+        "./opensans-bold.e5ce7386f1ecfef7.woff",
+        "./opensans-italic.800ed48e9468c58b.woff",
+        "./opensans-italic.b052b7638c61c146.woff2",
+        "./opensans-regular.c13fcca420b7fb48.woff2",
+        "./opensans-regular.f4d6446a39d41ef0.woff",
+        "./opensans-semibold.34e07c1c65550246.woff2",
+        "./opensans-semibold.f006cd8b5072474c.woff"
       ],
       "patterns": []
     }
@@ -52,12 +60,20 @@
     "./assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "./assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "./favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "./index.html": "943b56db60223840283e8f8c3077ea5d192d0ab4",
+    "./index.html": "bec7001becaa87a44169355c3febdc7a342a132c",
     "./main.b3ee8966842949cb.js": "3d2cb1a3daaecbeeec3e005d52a36dcf9b05c5d9",
     "./manifest.webmanifest": "dc2cc2d6b10b4224e7c32f4ac712115240b7c167",
+    "./opensans-bold.2006071b1b31da7a.woff2": "ea939afd2b5e8a365c62ff7f051552a0748cff90",
+    "./opensans-bold.e5ce7386f1ecfef7.woff": "fb292176a85d6023c0b6bcccce0fdcc01ed6a219",
+    "./opensans-italic.800ed48e9468c58b.woff": "813c2e1e9bc52a53df124f0bf349343b805b5b43",
+    "./opensans-italic.b052b7638c61c146.woff2": "6239de96d7cafbd9d6c44324475fefedc6465212",
+    "./opensans-regular.c13fcca420b7fb48.woff2": "9314e66fbf70f6860d5aeecd6f04b728e6b6c1ac",
+    "./opensans-regular.f4d6446a39d41ef0.woff": "85ad113e6f2f166fea4659aed15d1843e55dc303",
+    "./opensans-semibold.34e07c1c65550246.woff2": "700d04317ed37f875673d8bf5085fd250efebb89",
+    "./opensans-semibold.f006cd8b5072474c.woff": "bed52403bd532ff9a177345788be9ea85c6b1c54",
     "./polyfills.6920a2530dfc5c7d.js": "5e828a417a2801de26bc77f5a74c4d6a31fd03b4",
     "./runtime.d4747fd77c7fd010.js": "6dd72b939750752fa4fd795c42498b451d5fd1ea",
-    "./styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "./styles.9ec8bbe651ededf2.css": "7531f027a4701993ccf80799a11edc83eca7683e"
   },
   "navigationUrls": [
     {

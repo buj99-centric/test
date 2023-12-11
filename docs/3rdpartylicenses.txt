@@ -97,6 +97,9 @@ MIT
 @windmill/ng-windmill
 MIT
 
+@windmill/windmill
+MIT
+
 moment
 MIT
 Copyright (c) JS Foundation and other contributors
